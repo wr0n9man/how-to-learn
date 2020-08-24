@@ -2,3 +2,8 @@
   text-decoration: none;
   color: #2f80ed;
 }
+
+.header__link:hover {
+  opacity: 60%;
+  transition: opacity 0.2s ease-in-out;
+}

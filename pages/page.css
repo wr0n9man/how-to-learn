@@ -1,3 +1,4 @@
+@import "../vendor/normalize.css";
 @import "../blocks/root/root.css";
 @import "../blocks/header/header.css";
 @import "../blocks/description/description.css";
@@ -15,7 +16,5 @@
 @import "../blocks/techniques/techniques.css";
 @import "../blocks/two-columns/two-columns.css";
 @import "../blocks/video/video.css";
-@import "../blocks/pages/page.css";
 @import "../blocks/rotation/rotation.css";
 @import "../blocks/cards/cards.css";
-@import "../blocks/link/link.css";
