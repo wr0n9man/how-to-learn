@@ -1,0 +1,13 @@
+@import "__img/feinman__img.css";
+@import "__link/feinman__link.css";
+@import "__subtitle/feinman__subtitle.css";
+@import "__title/feinman__title.css";
+
+.feinman {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f2f2f2;
+  position: relative;
+  min-height: 790px;
+}
